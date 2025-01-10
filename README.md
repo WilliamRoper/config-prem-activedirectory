@@ -149,7 +149,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 4. Add a new user:
    - Name: `Jane Doe`
    - Username: `jane_admin`
-   - Password: `Cyberlab123!`
 5. Add `jane_admin` to the `Domain Admins` security group.
 6. Log out and log back in as `mydomain.com\jane_admin`.
 
@@ -193,7 +192,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 #### **Create Users with PowerShell**
 1. Log in to `DC-1` as `jane_admin`.
 2. Open PowerShell ISE as an administrator.
-3. Create multiple new users using a script (script link: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1).
+3. Create multiple new users by using this [script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1).
 4. Verify users appear in the `_EMPLOYEES` OU in ADUC.
 5. Attempt to log into `Client-1` with one of the created accounts.
 
