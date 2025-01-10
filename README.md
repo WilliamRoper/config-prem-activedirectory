@@ -154,15 +154,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 6. Log out and log back in as `mydomain.com\jane_admin`.
 
 <p>
-<img src="https://i.imgur.com/Jq4eZPI.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/Hmh13Iu.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/fjfBu5v.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/4WijGrh.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/OTBl5tT.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/pTUrCWZ.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 #### **Join Client-1 to the Domain**
@@ -170,11 +170,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 2. Create a new OU titled '_CLIENTS' & add `Client-1` in ADUC to `_CLIENTS`.
 
 <p>
-<img src="https://i.imgur.com/2xHyKvs.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/YJ5n2WA.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/kcyfdIP.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/9FmZOUF.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 ---
@@ -187,7 +187,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 3. Allow "domain users" access to Remote Desktop.
 
 <p>
-<img src="https://i.imgur.com/hK9sB8R.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/dNaJHfs.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 #### **Create Users with PowerShell**
@@ -198,15 +198,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 5. Attempt to log into `Client-1` with one of the created accounts.
 
 <p>
-<img src="https://i.imgur.com/RAgS5GM.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/m7djerT.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/Qe1OaOn.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/QrlPn5I.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/iXBrDci.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://imgur.com/1HzXcl2.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 ---
